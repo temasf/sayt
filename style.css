@@ -1,0 +1,40 @@
+img {
+    height:80px;
+    width:90px;
+}
+body {
+    background-color:#644AD8;
+}
+header {
+   background-color:#FBDB53; 
+}
+p {
+    background-color:#FBDB53;
+    font-family:COMIC SANS MS;
+}
+.bobr {
+    height:500px;
+    width:1000px;
+}
+table {
+    width: 600px;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+td {
+    padding: 3px;
+    border: 1px solid black;
+}
+h2 {
+    background: #FBDB53;
+    font-family:consolas;
+    color:MediumVioletRed	;
+}
+footer {
+   background-color:Indigo;
+}
+.aaa {
+    background-color:Indigo;
+}
+
+
